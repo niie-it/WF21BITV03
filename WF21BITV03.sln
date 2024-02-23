@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF21BITV03", "WF21BITV03.csproj", "{3710F7E4-92BF-4739-B31D-2FE66B559CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViDuMang", "..\ViDuMang\ViDuMang.csproj", "{8A88D0C1-A427-483D-96C6-4EBD6A03F5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3710F7E4-92BF-4739-B31D-2FE66B559CB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3710F7E4-92BF-4739-B31D-2FE66B559CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3710F7E4-92BF-4739-B31D-2FE66B559CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3710F7E4-92BF-4739-B31D-2FE66B559CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A88D0C1-A427-483D-96C6-4EBD6A03F5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A88D0C1-A427-483D-96C6-4EBD6A03F5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A88D0C1-A427-483D-96C6-4EBD6A03F5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A88D0C1-A427-483D-96C6-4EBD6A03F5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93DFE579-81EF-42A0-AADB-82A083AA3B46}
+	EndGlobalSection
+EndGlobal
