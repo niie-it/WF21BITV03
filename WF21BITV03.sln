@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangCuuChuong", "BangCuuChu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vietlott", "Vietlott\Vietlott.csproj", "{1284E40F-CE0C-458B-996C-5537F7B18C5F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemTu", "DemTu\DemTu.csproj", "{F56FCF16-270B-43BC-AAE4-646D2311320D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{1284E40F-CE0C-458B-996C-5537F7B18C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1284E40F-CE0C-458B-996C-5537F7B18C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1284E40F-CE0C-458B-996C-5537F7B18C5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F56FCF16-270B-43BC-AAE4-646D2311320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56FCF16-270B-43BC-AAE4-646D2311320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56FCF16-270B-43BC-AAE4-646D2311320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56FCF16-270B-43BC-AAE4-646D2311320D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
