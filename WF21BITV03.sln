@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab01_BT03_Mang", "Lab01_BT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMethod", "DemoMethod\DemoMethod.csproj", "{B8676FBD-AD9A-4BAB-880E-81B83577DDBB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDefaultParameter", "DemoDefaultParameter\DemoDefaultParameter.csproj", "{51A89664-3566-4436-B173-C73098811854}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangCuuChuong", "BangCuuChuong\BangCuuChuong.csproj", "{7BF290B9-D093-46CA-AB8F-07A0F5651C0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{B8676FBD-AD9A-4BAB-880E-81B83577DDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8676FBD-AD9A-4BAB-880E-81B83577DDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8676FBD-AD9A-4BAB-880E-81B83577DDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51A89664-3566-4436-B173-C73098811854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51A89664-3566-4436-B173-C73098811854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51A89664-3566-4436-B173-C73098811854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51A89664-3566-4436-B173-C73098811854}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BF290B9-D093-46CA-AB8F-07A0F5651C0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF290B9-D093-46CA-AB8F-07A0F5651C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF290B9-D093-46CA-AB8F-07A0F5651C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF290B9-D093-46CA-AB8F-07A0F5651C0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
