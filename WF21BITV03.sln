@@ -5,7 +5,9 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ViDuMang", "ViDuMang\ViDuMang.csproj", "{E0922EC0-F95B-456E-A0AA-78B3DFB84CEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab01_BT03_Mang", "Lab01_BT03_Mang\Lab01_BT03_Mang.csproj", "{E9BA1160-47F9-46A0-BBE3-1E0ABACF30E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab01_BT03_Mang", "Lab01_BT03_Mang\Lab01_BT03_Mang.csproj", "{E9BA1160-47F9-46A0-BBE3-1E0ABACF30E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoMethod", "DemoMethod\DemoMethod.csproj", "{B8676FBD-AD9A-4BAB-880E-81B83577DDBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{E9BA1160-47F9-46A0-BBE3-1E0ABACF30E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9BA1160-47F9-46A0-BBE3-1E0ABACF30E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9BA1160-47F9-46A0-BBE3-1E0ABACF30E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8676FBD-AD9A-4BAB-880E-81B83577DDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8676FBD-AD9A-4BAB-880E-81B83577DDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8676FBD-AD9A-4BAB-880E-81B83577DDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8676FBD-AD9A-4BAB-880E-81B83577DDBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
