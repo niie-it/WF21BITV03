@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoDefaultParameter", "Dem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangCuuChuong", "BangCuuChuong\BangCuuChuong.csproj", "{7BF290B9-D093-46CA-AB8F-07A0F5651C0C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vietlott", "Vietlott\Vietlott.csproj", "{1284E40F-CE0C-458B-996C-5537F7B18C5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{7BF290B9-D093-46CA-AB8F-07A0F5651C0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7BF290B9-D093-46CA-AB8F-07A0F5651C0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7BF290B9-D093-46CA-AB8F-07A0F5651C0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1284E40F-CE0C-458B-996C-5537F7B18C5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1284E40F-CE0C-458B-996C-5537F7B18C5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1284E40F-CE0C-458B-996C-5537F7B18C5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1284E40F-CE0C-458B-996C-5537F7B18C5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
