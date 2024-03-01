@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoOOPInheritance", "DemoOOPInheritance\DemoOOPInheritance.csproj", "{5CA4806B-6964-4CEB-B0C3-9921B682C456}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab03_BT02_KeThuaHinhHoc", "Lab03_BT02_KeThuaHinhHoc\Lab03_BT02_KeThuaHinhHoc.csproj", "{975B13B5-B51A-489B-96C5-F974CBFFFA02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{5CA4806B-6964-4CEB-B0C3-9921B682C456}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CA4806B-6964-4CEB-B0C3-9921B682C456}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CA4806B-6964-4CEB-B0C3-9921B682C456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975B13B5-B51A-489B-96C5-F974CBFFFA02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975B13B5-B51A-489B-96C5-F974CBFFFA02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975B13B5-B51A-489B-96C5-F974CBFFFA02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975B13B5-B51A-489B-96C5-F974CBFFFA02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
