@@ -61,7 +61,7 @@
 			button1.Name = "button1";
 			button1.Size = new Size(188, 58);
 			button1.TabIndex = 3;
-			button1.Text = "button1";
+			button1.Text = "Thêm";
 			button1.UseVisualStyleBackColor = true;
 			// 
 			// button2
@@ -70,7 +70,7 @@
 			button2.Name = "button2";
 			button2.Size = new Size(188, 58);
 			button2.TabIndex = 4;
-			button2.Text = "button2";
+			button2.Text = "Bớt";
 			button2.UseVisualStyleBackColor = true;
 			// 
 			// LblDonGia
@@ -78,9 +78,9 @@
 			LblDonGia.AutoSize = true;
 			LblDonGia.Location = new Point(15, 104);
 			LblDonGia.Name = "LblDonGia";
-			LblDonGia.Size = new Size(97, 41);
+			LblDonGia.Size = new Size(61, 41);
 			LblDonGia.TabIndex = 5;
-			LblDonGia.Text = "label1";
+			LblDonGia.Text = "Giá";
 			// 
 			// dataGridView1
 			// 
@@ -103,7 +103,7 @@
 			Controls.Add(numericUpDown1);
 			Controls.Add(CboHangHoa);
 			Name = "Form1";
-			Text = "Form1";
+			Text = "QUẢN LÝ HÀNG HÓA";
 			Load += Form1_Load;
 			((System.ComponentModel.ISupportInitialize)numericUpDown1).EndInit();
 			((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

@@ -16,9 +16,9 @@ namespace QuanLyHangHoaV03
 
 		private void Form1_Load(object sender, EventArgs e)
 		{
-			CboHangHoa.DataSource = HangHoas;
 			CboHangHoa.DisplayMember = "TenHh";
 			CboHangHoa.ValueMember = "MaHh";
+			CboHangHoa.DataSource = HangHoas;
 
 			dataGridView1.DataSource = HangHoas;
 		}
